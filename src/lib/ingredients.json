@@ -36,16 +36,6 @@
       "example": "I cooked two chicken breasts for dinner."
     },
     {
-      "ingredient": "Cheese Slice",
-      "image": "🧀",
-      "example": "She added a slice of cheese to her sandwich."
-    },
-    {
-      "ingredient": "Cookie",
-      "image": "🍪",
-      "example": "He ate a few cookies after lunch."
-    },
-    {
       "ingredient": "Clove of Garlic",
       "image": "🧄",
       "example": "The recipe calls for three cloves of garlic."
@@ -59,6 +49,46 @@
       "ingredient": "Chili Pepper",
       "image": "🌶",
       "example": "This dish needs six chili peppers to be spicy."
+    },
+    {
+      "ingredient": "Strawberry",
+      "image": "🍓",
+      "example": "She ate a bowl of strawberries."
+    },
+    {
+      "ingredient": "Apple",
+      "image": "🍏",
+      "example": "I bought three apples for a snack."
+    },
+    {
+      "ingredient": "Banana",
+      "image": "🍌",
+      "example": "He peeled a banana and ate it."
+    },
+    {
+      "ingredient": "Grape",
+      "image": "🍇",
+      "example": "There are ten grapes in my lunchbox."
+    },
+    {
+      "ingredient": "Orange",
+      "image": "🍊",
+      "example": "I packed two oranges for my trip."
+    },
+    {
+      "ingredient": "Peach",
+      "image": "🍑",
+      "example": "She bit into a juicy peach."
+    },
+    {
+      "ingredient": "Pear",
+      "image": "🍐",
+      "example": "I ate a ripe pear this morning."
+    },
+    {
+      "ingredient": "Cherry",
+      "image": "🍒",
+      "example": "He picked a handful of cherries."
     }
   ],
   "uncountable": [
@@ -118,12 +148,17 @@
       "example": "I spread a little butter on my toast."
     },
     {
-      "ingredient": "Cheese (whole)",
+      "ingredient": "Cheese",
       "image": "🧀",
       "example": "We bought some cheese from the market."
     },
     {
-      "ingredient": "Meat (general)",
+      "ingredient": "Pork",
+      "image": "🍖",
+      "example": "The restaurant serves a lot of meat."
+    },
+    {
+      "ingredient": "Beef",
       "image": "🍖",
       "example": "The restaurant serves a lot of meat."
     },
@@ -136,6 +171,36 @@
       "ingredient": "Honey",
       "image": "🍯",
       "example": "I added some honey to my tea."
+    },
+    {
+      "ingredient": "Jam",
+      "image": "",
+      "example": "She spread some jam on her toast."
+    },
+    {
+      "ingredient": "Pasta",
+      "image": "🍝",
+      "example": "I cooked some pasta for dinner."
+    },
+    {
+      "ingredient": "Cereal",
+      "image": "🥣",
+      "example": "He eats some cereal every morning."
+    },
+    {
+      "ingredient": "Yogurt",
+      "image": "🍦",
+      "example": "She had some yogurt with her breakfast."
+    },
+    {
+      "ingredient": "Whipped Cream",
+      "image": "",
+      "example": "He added some whipped cream to his dessert."
+    },
+    {
+      "ingredient": "Soup",
+      "image": "🍲",
+      "example": "I made some soup for lunch."
     }
   ]
 }
