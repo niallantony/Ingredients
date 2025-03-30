@@ -1,0 +1,141 @@
+{
+  "countable": [
+    {
+      "ingredient": "Tomato",
+      "image": "🍅",
+      "example": "I bought two tomatoes for the salad."
+    },
+    {
+      "ingredient": "Carrot",
+      "image": "🥕",
+      "example": "She chopped a carrot for the soup."
+    },
+    {
+      "ingredient": "Potato",
+      "image": "🥔",
+      "example": "We need five potatoes for this recipe."
+    },
+    {
+      "ingredient": "Lemon",
+      "image": "🍋",
+      "example": "I squeezed a lemon into my tea."
+    },
+    {
+      "ingredient": "Egg",
+      "image": "🥚",
+      "example": "He ate three eggs for breakfast."
+    },
+    {
+      "ingredient": "Shrimp",
+      "image": "🍤",
+      "example": "There are ten shrimps in the dish."
+    },
+    {
+      "ingredient": "Chicken Breast",
+      "image": "🍗",
+      "example": "I cooked two chicken breasts for dinner."
+    },
+    {
+      "ingredient": "Cheese Slice",
+      "image": "🧀",
+      "example": "She added a slice of cheese to her sandwich."
+    },
+    {
+      "ingredient": "Cookie",
+      "image": "🍪",
+      "example": "He ate a few cookies after lunch."
+    },
+    {
+      "ingredient": "Clove of Garlic",
+      "image": "🧄",
+      "example": "The recipe calls for three cloves of garlic."
+    },
+    {
+      "ingredient": "Slice of Bread",
+      "image": "🍞",
+      "example": "I had two slices of bread for breakfast."
+    },
+    {
+      "ingredient": "Chili Pepper",
+      "image": "🌶",
+      "example": "This dish needs six chili peppers to be spicy."
+    }
+  ],
+  "uncountable": [
+    {
+      "ingredient": "Water",
+      "image": "💧",
+      "example": "Please drink some water every hour."
+    },
+    {
+      "ingredient": "Milk",
+      "image": "🥛",
+      "example": "She poured a little milk into her coffee."
+    },
+    {
+      "ingredient": "Oil",
+      "image": "🫒",
+      "example": "Add some oil to the pan before frying."
+    },
+    {
+      "ingredient": "Vinegar",
+      "image": "",
+      "example": "We use vinegar to make pickles."
+    },
+    {
+      "ingredient": "Soy Sauce",
+      "image": "🥢",
+      "example": "Can you pass me some soy sauce?"
+    },
+    {
+      "ingredient": "Rice",
+      "image": "🍚",
+      "example": "I cooked a lot of rice for dinner."
+    },
+    {
+      "ingredient": "Flour",
+      "image": "🌾",
+      "example": "This cake needs some flour."
+    },
+    {
+      "ingredient": "Sugar",
+      "image": "🍬",
+      "example": "He put too much sugar in his tea."
+    },
+    {
+      "ingredient": "Salt",
+      "image": "🧂",
+      "example": "Add a pinch of salt to the soup."
+    },
+    {
+      "ingredient": "Pepper",
+      "image": "",
+      "example": "Sprinkle some pepper on your pasta."
+    },
+    {
+      "ingredient": "Butter",
+      "image": "🧈",
+      "example": "I spread a little butter on my toast."
+    },
+    {
+      "ingredient": "Cheese (whole)",
+      "image": "🧀",
+      "example": "We bought some cheese from the market."
+    },
+    {
+      "ingredient": "Meat (general)",
+      "image": "🍖",
+      "example": "The restaurant serves a lot of meat."
+    },
+    {
+      "ingredient": "Chocolate",
+      "image": "🍫",
+      "example": "I love eating chocolate every day."
+    },
+    {
+      "ingredient": "Honey",
+      "image": "🍯",
+      "example": "I added some honey to my tea."
+    }
+  ]
+}
